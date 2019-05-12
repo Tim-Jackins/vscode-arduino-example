@@ -1,0 +1,16 @@
+{
+    "arduino.path": "C:/Program Files (x86)/Arduino",
+    "arduino.commandPath": "arduino_debug.exe",
+    "arduino.logLevel": "info",
+    "arduino.enableUSBDetection": true,
+    "arduino.disableTestingOpen": false,
+    "arduino.skipHeaderProvider": false,
+    "arduino.additionalUrls": [
+        "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/package_azureboard_index.json",
+        "http://arduino.esp8266.com/stable/package_esp8266com_index.json",
+        "http://files.tinycircuits.com/ArduinoBoards/package_tinycircuits_index.json",
+        "https://dl.espressif.com/dl/package_esp32_index.json",
+        "https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json"
+    ],
+    "arduino.defaultBaudRate": 9600
+}
