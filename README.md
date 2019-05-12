@@ -1,6 +1,6 @@
 # Vscode Arduino Example
 
-> What a cool system.
+> What a cool IDE!
 
 The most important part to be noted is the `includePath` variable in the [./.vscode/c_cpp_properties.json](./.vscode/c_cpp_properties.json) file. In order to allow Microsofts C/C++ extension not throw bogus errors you need the following paths included:
 
