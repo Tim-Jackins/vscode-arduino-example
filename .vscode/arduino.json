@@ -2,5 +2,6 @@
     "port": "COM20",
     "board": "arduino:avr:uno",
     "programmer": "AVRISP mkII",
-    "sketch": "blink.ino"
+    "sketch": "blink.ino",
+    "output": "./build"
 }
